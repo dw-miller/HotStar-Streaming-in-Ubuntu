@@ -1,3 +1,4 @@
 # HotStar-Streaming-in-Ubuntu
 
----> In your browser, Open https://www.hlsplayer.net/ and select M3U8 player (if not selected already)
+1.Select the id of Hotstar Video.
+3.Paste The id into the website input box. It will create m3u8 file which can be played
